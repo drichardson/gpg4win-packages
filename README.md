@@ -6,5 +6,6 @@ See
 [gpg4win/packages](http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=tree;f=packages;hb=HEAD)
 for more info.
 
-To update the packages, run the download.sh script in gpg4win/packages and copy
-the downloaded files to packages in this repo.
+To update the packages, run the
+[download.sh](http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=blob;f=packages/download.sh;hb=HEAD)
+and copy the downloaded files to packages in this repo.
